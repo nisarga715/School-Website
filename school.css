@@ -1,0 +1,87 @@
+.content{
+    
+    font-family:'Auge';
+    
+    
+}
+.header{
+    color: rgb(1, 1, 28);
+}
+
+.heading{
+    color:#F04A00;
+    font-stretch:extra-expanded;
+}
+
+
+
+
+/*about*/
+
+.about{
+height: 515px;
+width: 600px;
+border-radius: 100px ;
+padding: 30px;
+border-style:groove;
+border-color:2px black;
+align-items: center;
+
+}
+.abb{
+    margin:20px;
+    padding: 0px;
+    border-radius:30px;
+    width: 250px;
+    height:40px;
+}
+/*course*/
+.cou{
+height: 300px;
+width: 400px;
+border-radius: 100px ;
+padding: 40px;
+border-style:hidden;
+border-color:2px black;
+align-items: center;
+float:left;
+
+}
+
+.cou{
+    font-size:larger;
+    
+}
+
+.cour{
+height: 300px;
+width: 400px;
+border-radius: 100px ;
+padding: 40px;
+border-style:hidden;
+border-color:2px black;
+align-items: center;
+float: right;
+}
+
+.cour{
+    font-size: larger;
+}
+
+.course{
+    margin:20px;
+    padding: 0px;
+    border-radius:30px;
+    width: 250px;
+    height:40px;
+}
+
+/*--------facility---*/
+
+
+
+/*  contact*/
+
+/*form*/
+
+
